@@ -1,6 +1,6 @@
 # serverless-flask
 
-# Installing new packages
+### Installing new packages
 `source venv/bin/activate`
 
 `pip install <package>`
